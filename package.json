@@ -1,0 +1,16 @@
+{
+  "name": "com.lighteaters.statemachine",
+  "version": "1.0.0",
+  "displayName": "Async State Machine",
+  "description": "An asynchronous state machine framework built on Task and async/await principles. Requires Zenject/Extenject for dependency injection.",
+  "unity": "2020.3",
+  "keywords": ["statemachine", "fsm", "async", "task", "zenject", "extenject", "di"],
+  "author": {
+    "name": "LightEaters Studio",
+    "url": "https://github.com/LighteatersStudio/StateMachine"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "com.svermeulen.extenject": "9.2.0"
+  }
+}
